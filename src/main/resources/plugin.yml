@@ -1,0 +1,8 @@
+name: EdenItems
+version: '${project.version}'
+main: fr.edencraft.edenitems.EdenItems
+api-version: 1.18
+prefix: EdenItems
+authors: [ NayeOne ]
+description: Manage various action on specific items
+website: https://github.com/EdenStacks
